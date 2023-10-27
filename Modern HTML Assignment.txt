@@ -1,0 +1,85 @@
+Qn. No.01 - List out the features of HTML5.
+Ans- 
+=> Local Storage:- It is  a modern feature of HTML and serveral browsers that typically store data in the user's browsers and and can access them with the help of JS APIs
+
+=> Canvas Element:- HTML5 introduce the <canvas> element, which allows for dynamic, interactive graphics to be created and manipulated within a web page.
+
+=> Form Improvement:- HTML5 introduced several improvements to forms, including new input types like date, time and color as well as new attributes such as required and autofocus.
+
+=> Accessibility improvement:- HTML5 provides better support for accessibility, including the ability to provide alternative  text for images and improved support for screen readers.
+
+=> Geolocation API:- HTMl5 provides an API for obtaining the user's location, enabling web applications to offer location-based services.
+
+Qn. No.02 - What are HTML Entities? List out 5 commonly used HTML entities,
+Ans-
+=> An HTML entities is used to display invisible characters and reserved characters that would otherwise be interpreted as HTML code. It is a piece of text, or string that begins with an ampersand(&) and ends with an semicolon(;). We can also use them in place of other characters that are difficult to type with a standard keyboard.
+
+5 Commonly used HTML entities are:-
+I. &amp; => It represents the ampersand symbol (&).
+Exp:- <p> For further details, contact us &amp; we will assist you in a better way</p>
+
+II. &copy; => This HTML entity represents the copyright symbol(©).
+Exp:- <p> &copy; 2023 The Emirates Group. All Right Reserved.</p>
+
+III. &lt; => This entity represent the less-than symbol(<).
+Exp:- <p> This is an example of &lt;em&gt;text&lt;/em&gt;</p>
+
+IV. &gt; => Represents the greater-than symbol(>).
+Exp:- <p> For more information, you can visit our website &gt; <a href="#'>here</a>.</p>
+
+V. &quot; => This HTML entity represents the double qootation mark(").
+Exp:- <p> That person is a code "Coder".</p> 
+
+Qn. No.03. Define accessibility in the context of web development? Discuss why it's essential to create accessible websites and how it benefits different user groups?
+Ans:-
+Accessibility in Web Development: Accessibility in web development refers to designing and coding websites
+in a way that ensures people with disabilities can perceive, understand, navigate, and interact with digital
+content effectively. It involves making web content inclusive and usable for everyone, regardless of their
+abilities.
+
+Importance of Accessible Websites:
+
+Inclusivity: Accessible websites ensure that everyone, including people with disabilities, can access and use
+online information and services.
+
+0egal Compliance: Many countries have laws requiring websites to be accessible, avoiding legal issues and
+promoting equal access.
+
+User Experience: Accessible design often leads to improved user experiences for everyone, including clear
+navigation and content structure.
+
+Business Growth: Accessible websites reach a wider audience, increasing engagement, loyalty, and potential
+customer base.
+
+Benefits for User Groups:
+(isual Impairments: Accessibility provides screen reader support and text alternatives, aiding blind and
+visually impaired users.
+
+Hearing Impairments: Captions and transcripts benefit those with hearing impairments by making audio
+content understandable.
+
+Motor Disabilities: Keyboard navigation and easy-to-click elements assist users with motor limitations.
+
+Cognitive Disabilities: Accessible design simplifies content and layout, aiding individuals with cognitive
+challenges.
+
+Elderly Users: Accessible websites accommodate age-related limitations, ensuring usability for elderly users.
+
+Mobile Users: Accessible design improves mobile experiences through simplified and responsive layouts.
+
+Qn. No.04. List any 3 ways which help us in improving the accessibility of HTML
+Ans:-
+=> Use Semantic HTM0 Elements:- Using semantic HTML elements helps improve accessibility by providing
+meaningful structure to your content. Semantic elements like <header>, <nav>, <main>, <article>, and <footer>
+convey the purpose of different sections to assistive technologies, making it easier for users with disabilities to
+navigate and understand the content.
+
+=> Provide Alt Text for Images:- Adding descriptive alt text to images using the alt attribute ensures that users who
+cannot see the images can understand their content and purpose. Screen readers read aloud the alt text,
+making visual content accessible to people with visual impairments. Aim to make alt text concise, informative,
+and relevant to the image.
+
+=> Use Color with Care:- Color plays an important role in web design, but it should not be the only means of
+conveying information. Ensure that color is not the sole indicator of meaning. For example, when using error
+messages, pair color with text that explains the error. Additionally, maintain sufficient color contrast between
+text and background to enhance readability for users with low vision.
